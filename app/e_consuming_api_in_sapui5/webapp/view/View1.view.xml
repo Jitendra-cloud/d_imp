@@ -28,7 +28,7 @@
                 </content>
             </Panel>
             <Table id="customerTable" growing="true" growingThreshold="4" class="sapUiResponsiveMargin" width="auto" 
-              items="" mode="SingleSelectLeft">
+              items="/getToDos" mode="SingleSelectLeft">
                 <headerToolbar>
                     <Toolbar id="toolbar2">
                         <Title id="title" text="{i18n>TableHeader}"/>
